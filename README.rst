@@ -49,6 +49,18 @@ You can install cmbnncs by using::
     $ sudo python setup.py install
 
 
+
+Usage
+-----
+
+There are mainly two parts in the code: Generate the training (test) set, and training of the CNN model.
+
+The files sim_*.py in the examples folder are used to simulate the training (test) set. The files add_*py are used to add instrument noise and beam effects. However, sim_*py are using a modified version of PySM to generate the mock data, which is not included in this code. Therefore, we recommend the interested readers simulate CMB and foreground maps using the original `PySM <https://github.com/bthorne93/PySM_public>`_.
+
+
+
+
+
 Contributors
 ------------
 
