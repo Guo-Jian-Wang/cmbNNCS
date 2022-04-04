@@ -42,11 +42,7 @@ and some commonly used modules:
 Installation
 ------------
 
-You can install cmbnncs by using pip::
-
-    $ sudo pip install cmbnncs
-
-or from source::
+You can install cmbnncs by using::
 
     $ git clone https://github.com/Guo-Jian-Wang/cmbnncs.git    
     $ cd cmbnncs
