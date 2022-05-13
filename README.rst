@@ -5,14 +5,14 @@ cmbNNCS
 
 cmbNNCS is a method for component separation of the cosmic microwave background (CMB) observations using convolutional neural network (CNN).
 
-It is proposed by `Guo-Jian Wang, Hong-Liang Shi, Ye-Peng Yan, Jun-Qing Xia, Yan-Yun Zhao, Si-Yu Li, Jun-Feng Li (2022) <https://arxiv.org/abs/2204.01820>`_.
+It is proposed by `Guo-Jian Wang, Hong-Liang Shi, Ye-Peng Yan, Jun-Qing Xia, Yan-Yun Zhao, Si-Yu Li, Jun-Feng Li (2022) <https://doi.org/10.3847/1538-4365/ac5f4a>`_.
 
 
 
 Attribution
 -----------
 
-If you use this code in your research, please cite `Guo-Jian Wang, Hong-Liang Shi, Ye-Peng Yan, et al. 2022, ApJS, XXX, XXX <https://arxiv.org/abs/2204.01820>`_.
+If you use this code in your research, please cite `Guo-Jian Wang, Hong-Liang Shi, Ye-Peng Yan, et al. 2022, ApJS, 260, 13 <https://doi.org/10.3847/1538-4365/ac5f4a>`_.
 
 
 
